@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorTest</string>
+    <string name="start_audio">Start Audio</string>
+    <string name="stop_audio">Stop Audio</string>
+</resources>
